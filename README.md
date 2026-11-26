@@ -78,8 +78,8 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering graduate pa
 ## 🤝 Connect With Me
 
 - 📍 Hyderabad, Telangana, India
-- 💼 LinkedIn: Add your LinkedIn profile URL
-- 📧 Email: Add your professional email address
+- 💼 LinkedIn: https://in.linkedin.com/in/tholem-saiprasanna
+- 📧 Email: tholemsaiprasanna19@gmail.com
 - 💻 GitHub: https://github.com/saiprasanna19320
 
 ---
